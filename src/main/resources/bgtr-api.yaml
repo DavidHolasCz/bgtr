@@ -1,0 +1,11 @@
+openapi: "3.0.2"
+info:
+  version: 1.0.0
+  title: BGTR
+  description: Api for bugtracker application
+  contact:
+    name: David Holas
+    email: madeupemail@whatever.com
+    url: www.idonthaveone.com
+
+paths:
